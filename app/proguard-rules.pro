@@ -1,0 +1,2 @@
+-keep class com.ffpro.settings.domain.model.** { *; }
+-keepattributes *Annotation*
